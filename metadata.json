@@ -1,0 +1,6 @@
+{
+  "name": "VedaAI Assessment Creator",
+  "description": "An AI-powered assessment creator for teachers to build, customize, and generate beautifully formatted exams, quizzes, and worksheets from text inputs & instruction forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
